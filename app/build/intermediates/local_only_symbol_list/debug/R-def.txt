@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id ivItem
+id ll1
+id rvLigaInggris
+id tvNamaObject
+id tvStadion
+layout activity_main
+layout item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.API
+style Theme.API
+xml backup_rules
+xml data_extraction_rules
